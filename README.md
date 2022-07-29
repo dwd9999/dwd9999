@@ -1,16 +1,15 @@
-### Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&reversal=true&height=250&section=header&text=Juwon's%20GitHub&fontSize=90)
+### Since 2022-07-29
+### Dedicated to [EunYu](https://github.com/ChunEunyu)
 
-<!--
-**dwd9999/dwd9999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<img src="https://user-images.githubusercontent.com/51365114/119627750-716f3100-be47-11eb-8e83-686b23c2c161.png  width="200" height="400"/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://avatars.githubusercontent.com/u/82995817?v=4" width="100px">
+# Jyu-nyu Study
+#### members: 
+  <table>
+    <tr>
+      <td height="100px" align="center"> <a href="https://github.com/dwd9999"> <img src="https://avatars.githubusercontent.com/u/101623328?v=4" width="100px"><br/> JYU         </br></a></td>
+      <td height="100px" align="center"> <a href="https://github.com/ChunEunyu"> <img src="https://avatars.githubusercontent.com/u/82995817?v=4" width="100px"><br/> NYU         </br></a></td>
+    </tr>
